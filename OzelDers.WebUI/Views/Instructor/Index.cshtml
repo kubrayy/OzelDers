@@ -1,0 +1,31 @@
+﻿@*@{
+        ViewData["Title"] = "Home Page";
+    }*@
+
+    @model InstructorViewModel
+    @section Script{
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    }
+
+    <div class="row">
+        <div class="col-3">
+            @await Component.InvokeAsync("Languages")
+        </div>
+
+        <div class="col-9">
+            @if (Model.Instructors.Count == 0)
+            {
+                <partial name="_NoInstructor" />
+            }
+            else
+            {
+                <div class="row">
+                    @foreach (var instructor in Model.Instructors)
+                    {
+                        <partial name="_Instructor" model="instructor" />
+                    }
+
+                </div>
+            }
+        </div>
+    </div>

@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "All Instructors List";
+}
+
+@model InstructorViewModel
+@section Script{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+}
+<div class="row">
+    <div class="col-3">
+        @* Languages gelecek *@
+        @await Component.InvokeAsync("Languages")
+        <partial name="_Search" />
+    </div>
+    <div class="col-9">
+
+        @* Ana sayfa instructorlar gelecek *@
+        @if (Model.Instructors.Count == 0)
+        {
+            <partial name="_NoInstructor" />
+        }
+        else
+        {
+            <div class="row">
+                @foreach (var instructor in Model.Instructors)
+                {
+                    <partial name="_Instructor" model="instructor" />
+                }
+            </div>
+        }
+
+        <nav>
+            <ul class="pagination">
+                <li class="page-item disabled">
+                    <a class="page-link">Previous</a>
+                </li>
+
+                @for (int i = 0; i < Model.PageInfo.TotalPages(); i++)
+                {
+
+                    if (string.IsNullOrEmpty(Model.PageInfo.CurrentLanguage))
+                    {
+                        <li class='page-item @(Model.PageInfo.CurrentPage==i+1 ? "active" : "")'>
+                            <a class="page-link"
+                               href="/instructors?page=@(i+1)">@(i+1)</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class='page-item @(Model.PageInfo.CurrentPage==i+1 ? "active" : "")'>
+                            <a class="page-link"
+                               href="/instructors/@Model.PageInfo.CurrentLanguage?page=@(i+1)">@(i+1)</a>
+                        </li>
+                    }
+                }
+
+                <li class="page-item">
+                    <a class="page-link" href="#">Next</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>

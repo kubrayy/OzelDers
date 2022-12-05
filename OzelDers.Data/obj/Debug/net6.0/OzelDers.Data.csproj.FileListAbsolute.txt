@@ -1,0 +1,34 @@
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.deps.json
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.runtimeconfig.json
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/bin/Debug/net6.0/OzelDers.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/bin/Debug/net6.0/OzelDers.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.csproj.AssemblyReference.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.AssemblyInfoInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.AssemblyInfo.cs
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.csproj.CoreCompileInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.csproj.CopyComplete
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/refint/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.genruntimeconfig.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Data/obj/Debug/net6.0/ref/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.deps.json
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.runtimeconfig.json
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/bin/Debug/net6.0/OzelDers.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/bin/Debug/net6.0/OzelDers.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/bin/Debug/net6.0/OzelDers.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.csproj.AssemblyReference.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.AssemblyInfoInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.AssemblyInfo.cs
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.csproj.CoreCompileInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.csproj.CopyComplete
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/refint/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/OzelDers.Data.genruntimeconfig.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Data/obj/Debug/net6.0/ref/OzelDers.Data.dll

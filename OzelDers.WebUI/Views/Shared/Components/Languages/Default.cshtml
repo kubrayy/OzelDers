@@ -1,0 +1,10 @@
+﻿@model List<Language>
+<div class="list-group">
+    <a class='list-group-item list-group-item-action @(ViewBag.SelectedLanguage==null ? "active" : "")'
+       asp-controller="OzelDers" asp-action="List" asp-route-category="">Show All</a>
+    @foreach (var language in Model)
+    {
+        <a class="list-group-item list-group-item-action @(ViewBag.SelectedLanguage==language.Url ? "active" : "") "
+           asp-controller="OzelDers" asp-action="List" asp-route-language=@language.Url>@language.Name</a>
+    }
+</div>

@@ -1,0 +1,34 @@
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/bin/Debug/net6.0/OzelDers.Business.deps.json
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/bin/Debug/net6.0/OzelDers.Business.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/bin/Debug/net6.0/OzelDers.Business.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/bin/Debug/net6.0/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/bin/Debug/net6.0/OzelDers.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/bin/Debug/net6.0/OzelDers.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/bin/Debug/net6.0/OzelDers.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.AssemblyInfo.cs
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.csproj.CopyComplete
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/refint/OzelDers.Business.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.Business/obj/Debug/net6.0/ref/OzelDers.Business.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/bin/Debug/net6.0/OzelDers.Business.deps.json
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/bin/Debug/net6.0/OzelDers.Business.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/bin/Debug/net6.0/OzelDers.Business.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/bin/Debug/net6.0/OzelDers.Data.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/bin/Debug/net6.0/OzelDers.Entity.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/bin/Debug/net6.0/OzelDers.Data.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/bin/Debug/net6.0/OzelDers.Entity.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.csproj.AssemblyReference.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.AssemblyInfoInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.AssemblyInfo.cs
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.csproj.CoreCompileInputs.cache
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.csproj.CopyComplete
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/refint/OzelDers.Business.dll
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/OzelDers.Business.pdb
+/Users/kubrayilmaz/Documents/Projects/OzelDers copy 3/OzelDers.Business/obj/Debug/net6.0/ref/OzelDers.Business.dll

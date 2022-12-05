@@ -1,0 +1,21 @@
+﻿@{     ViewData["Title"] = "Details";
+}
+
+@model InstructorDetailModel
+
+<div class="card">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-3">
+                <img src="~/images/@Model.Instructor.ImageUrl" class="rounded-circle border border-dark" width="400px" height="500px" style="object-fit: cover"  ; />
+            </div>
+            <div class="col-7">
+                    <h1 class="card-title display-6">@Model.Instructor.Name @Model.Instructor.LastName</h1>
+                    <p class="card-text">Description :  @Model.Instructor.Description</p>
+                    <p class="card-text">Age : @Model.Instructor.Age</p>
+                    <p class="card-text">One Hour Price : @Model.Instructor.OneHourPrice</p>
+                <button type="submit" class="btn btn-sm btn-dark">Take a meeting!</button>
+            </div>
+        </div>
+    </div>
+</div>

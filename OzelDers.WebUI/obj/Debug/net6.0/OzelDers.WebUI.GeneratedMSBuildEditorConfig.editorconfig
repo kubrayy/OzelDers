@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OzelDers.WebUI
+build_property.RootNamespace = OzelDers.WebUI
+build_property.ProjectDir = /Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Instructor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zdHJ1Y3Rvci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Language/Language.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZ3VhZ2UvTGFuZ3VhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/OzelDers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3plbERlcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/OzelDers/HowItWorks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3plbERlcnMvSG93SXRXb3Jrcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/OzelDers/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3plbERlcnMvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/OzelDers/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3plbERlcnMvU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/Components/Languages/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTGFuZ3VhZ2VzL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/_Instructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19JbnN0cnVjdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/_Language.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYW5ndWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/_NavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/_NoInstructor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ob0luc3RydWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/_Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kubrayilmaz/Documents/Projects/OzelDers/OzelDers.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lm36ca2461
